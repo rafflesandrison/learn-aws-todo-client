@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "learnawstodoclient54257b86": {}
+      },
+      "api": {
+        "learnawstodoclient": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
